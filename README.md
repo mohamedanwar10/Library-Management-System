@@ -1,5 +1,5 @@
 # Library-Management-System
-رThis system is an advanced Oracle SQL-based library management solution, containing:
+This system is an advanced Oracle SQL-based library management solution, containing:
 
 - **Tables**: 
   - `librarians` (librarian details)
