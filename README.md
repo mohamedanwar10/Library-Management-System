@@ -35,4 +35,5 @@ Ideal for librarians, library administrators, educational institutions, and any 
 - Oracle Database environment.
 - Basic SQL and PL/SQL knowledge for customization.
 
-## ERD Diagram: https://dbdiagram.io/d/Library_Management_System_ERD-680f77d41ca52373f5a7614d  
+## ERD Diagram
+-https://dbdiagram.io/d/Library_Management_System_ERD-680f77d41ca52373f5a7614d  
